@@ -8,17 +8,17 @@ The analysis demonstrates how remote work matured from an emergency response dur
 
 This project aims to:
 
-Analyze changes in employee attitudes toward remote work between 2020 and 2021.
+* Analyze changes in employee attitudes toward remote work between 2020 and 2021.
 
-Compare productivity levels in remote and workplace environments.
+* Compare productivity levels in remote and workplace environments.
 
-Evaluate factors influencing employee satisfaction and well-being.
+* Evaluate factors influencing employee satisfaction and well-being.
 
-Examine remote work barriers and organizational support.
+* Examine remote work barriers and organizational support.
 
-Identify trends in flexibility, engagement, and work-life balance.
+* Identify trends in flexibility, engagement, and work-life balance.
 
-Generate actionable business insights for sustainable hybrid work strategies.
+* Generate actionable business insights for sustainable hybrid work strategies.
 
 # 📊 Dataset
 
@@ -26,174 +26,174 @@ Source: Maven Analytics Remote Working Survey Dataset
 
 Dataset includes responses related to:
 
-Remote work productivity
+* Remote work productivity
 
-Employee satisfaction
+* Employee satisfaction
 
-Employer support
+* Employer support
 
-Time allocation
+* Time allocation
 
-Work-life balance
+* Work-life balance
 
-Collaboration challenges
+* Collaboration challenges
 
-Remote work preferences
+* Remote work preferences
 
 Original Dataset: https://mavenanalytics.io/data-playground/remote-working-survey
 
 # 🛠️ Tools & Technologies
 
-Python
+* Python
 
-Pandas
+* Pandas
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
-Seaborn
+* Seaborn
 
-Jupyter Notebook / Google Colab
+* Jupyter Notebook / Google Colab
 
-Power BI
+* Power BI
 
 # 📈 Types of Analytics Applied
 1️⃣ Descriptive Analytics – What Happened?
 
 Key findings include:
 
-Remote work adoption increased significantly between 2020 and 2021.
+* Remote work adoption increased significantly between 2020 and 2021.
 
-Employees generally reported stable or improved productivity while working remotely.
+* Employees generally reported stable or improved productivity while working remotely.
 
-Commuting time decreased, while personal and family time increased.
+* Commuting time decreased, while personal and family time increased.
 
-Employee sentiment toward remote work became more positive over time.
+* Employee sentiment toward remote work became more positive over time.
 
-Organizations introduced more structured remote work policies in 2021.
+* Organizations introduced more structured remote work policies in 2021.
 
 2️⃣ Diagnostic Analytics – Why Did It Happen?
 
 Major drivers behind employee perceptions:
 
-Reduced commuting improved work-life balance.
+* Reduced commuting improved work-life balance.
 
-Flexible work environments allowed personalized work schedules.
+* Flexible work environments allowed personalized work schedules.
 
-Employees gained greater autonomy and control over work arrangements.
+* Employees gained greater autonomy and control over work arrangements.
 
-Organizations improved technology adoption and policy maturity.
+* Organizations improved technology adoption and policy maturity.
 
-Challenges included collaboration difficulties, isolation, connectivity issues, and domestic responsibilities.
+* Challenges included collaboration difficulties, isolation, connectivity issues, and domestic responsibilities.
 
 3️⃣ Predictive Analytics – What Might Happen Next?
 
 Based on observed trends:
 
-Hybrid work models are likely to become the preferred standard.
+* Hybrid work models are likely to become the preferred standard.
 
-Flexible work policies will continue to expand.
+* Flexible work policies will continue to expand.
 
-Organizations will increase investments in collaboration and cloud technologies.
+* Organizations will increase investments in collaboration and cloud technologies.
 
-Employee well-being and mental health initiatives will gain importance.
+* Employee well-being and mental health initiatives will gain importance.
 
 4️⃣ Prescriptive Analytics – What Should Organizations Do?
 
 Recommendations:
 
-Strengthen hybrid work policies.
+* Strengthen hybrid work policies.
 
-Improve digital infrastructure and cybersecurity.
+* Improve digital infrastructure and cybersecurity.
 
-Enhance remote collaboration practices.
+* Enhance remote collaboration practices.
 
-Invest in employee well-being programs.
+* Invest in employee well-being programs.
 
-Train managers in remote leadership and engagement techniques.
+* Train managers in remote leadership and engagement techniques.
 
 # 📉 Key Visualizations
 
-Interactive Dashboard
+* Interactive Dashboard
 
-Remote Work Responses by Industry & Employee Sentiment
+* Remote Work Responses by Industry & Employee Sentiment
 
-Productivity & Remote Work Barriers
+* Productivity & Remote Work Barriers
 
-Time Allocation & Organizational Support
+* Time Allocation & Organizational Support
 
-Remote Work Experience & Business Insights
+* Remote Work Experience & Business Insights
 
 # 🔍 Key Findings
 
 ✅ Productivity
 
-Most employees reported equal or higher productivity while working remotely.
+* Most employees reported equal or higher productivity while working remotely.
 
-Productivity improved as organizations became more experienced with remote operations.
+* Productivity improved as organizations became more experienced with remote operations.
 
 ✅ Work-Life Balance
 
-Reduced commuting created additional personal and family time.
+* Reduced commuting created additional personal and family time.
 
-Employees experienced greater flexibility in managing daily responsibilities.
+* Employees experienced greater flexibility in managing daily responsibilities.
 
 ✅ Employee Satisfaction
 
-Positive perceptions towards remote work increased in 2021.
+* Positive perceptions towards remote work increased in 2021.
 
-Employees valued flexibility and autonomy in determining work arrangements.
+* Employees valued flexibility and autonomy in determining work arrangements.
 
 ✅ Organizational Readiness
 
-Employers improved remote work policies and support mechanisms.
+* Employers improved remote work policies and support mechanisms.
 
-Technology adoption and digital collaboration capabilities matured significantly.
+* Technology adoption and digital collaboration capabilities matured significantly.
 
 ✅ Remote Work Challenges
 
 Common barriers included:
 
-Collaboration difficulties
+* Collaboration difficulties
 
-Employee isolation
+* Employee isolation
 
-Internet connectivity issues
+* Internet connectivity issues
 
-Equipment limitations
+* Equipment limitations
 
-Management and communication challenges
+* Management and communication challenges
 
 # 💡 Business Insights
 
-Remote work has evolved into a long-term workforce strategy.
+* Remote work has evolved into a long-term workforce strategy.
 
-Employee productivity generally remained stable or improved.
+* Employee productivity generally remained stable or improved.
 
-Organizations that provide flexibility experience higher employee satisfaction.
+* Organizations that provide flexibility experience higher employee satisfaction.
 
-Collaboration remains one of the biggest challenges for distributed teams.
+* Collaboration remains one of the biggest challenges for distributed teams.
 
-Work-life balance significantly influences employee engagement and retention.
+* Work-life balance significantly influences employee engagement and retention.
 
-Hybrid work models can help reduce operational costs while maintaining productivity.
+* Hybrid work models can help reduce operational costs while maintaining productivity.
 
 # 🚀 Recommendations
 
 Organizations should:
 
-Develop clear hybrid work policies.
+* Develop clear hybrid work policies.
 
-Invest in remote work infrastructure.
+* Invest in remote work infrastructure.
 
-Promote employee well-being initiatives.
+* Promote employee well-being initiatives.
 
-Enhance team collaboration and communication.
+* Enhance team collaboration and communication.
 
-Provide leadership training for remote management.
+* Provide leadership training for remote management.
 
-Continue leveraging digital workplace technologies.
+* Continue leveraging digital workplace technologies.
 
 # 📌 Conclusion
 
